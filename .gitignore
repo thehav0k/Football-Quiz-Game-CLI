@@ -1,0 +1,16 @@
+# Rust specific ignores
+**/target/
+**/*.rs.bk
+Cargo.lock
+# IDE and editor files
+.idea/
+*.swp
+*.swo
+*.bak
+# Byproducts
+*.log
+# MacOS
+.DS_Store
+# Other
+*.tmp
+
