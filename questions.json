@@ -1,0 +1,724 @@
+[
+  {
+    "question": "Which country won the 2018 FIFA World Cup?",
+    "options": ["A) Brazil", "B) Germany", "C) France", "D) Argentina"],
+    "answer": "C",
+    "difficulty": "easy",
+    "explanation": "France won the 2018 FIFA World Cup by defeating Croatia 4-2 in the final match held in Moscow, Russia."
+  },
+  {
+    "question": "Who won the Ballon d'Or in 2020?",
+    "options": ["A) Lionel Messi", "B) Robert Lewandowski", "C) Cristiano Ronaldo", "D) Kevin De Bruyne"],
+    "answer": "B",
+    "difficulty": "easy",
+    "explanation": "Robert Lewandowski won the 2020 Ballon d'Or for his outstanding performance with Bayern Munich, scoring 55 goals in 47 matches across all competitions."
+  },
+  {
+    "question": "Which club has won the most UEFA Champions League titles?",
+    "options": ["A) Real Madrid", "B) AC Milan", "C) Bayern Munich", "D) Barcelona"],
+    "answer": "A",
+    "difficulty": "easy",
+    "explanation": "Real Madrid has won the UEFA Champions League 15 times, more than any other club, with their most recent title in 2024."
+  },
+  {
+    "question": "Who is the all-time top scorer in the English Premier League?",
+    "options": ["A) Thierry Henry", "B) Alan Shearer", "C) Wayne Rooney", "D) Sergio Agüero"],
+    "answer": "B",
+    "difficulty": "easy",
+    "explanation": "Alan Shearer holds the record as the all-time top scorer in the English Premier League with 260 goals, primarily for Newcastle United."
+  },
+  {
+    "question": "Which country hosted the 2014 FIFA World Cup?",
+    "options": ["A) Brazil", "B) South Africa", "C) Germany", "D) Russia"],
+    "answer": "A",
+    "difficulty": "easy",
+    "explanation": "Brazil hosted the 2014 FIFA World Cup, with matches played across 12 cities, including the final at the Maracanã Stadium in Rio de Janeiro."
+  },
+  {
+    "question": "Who is known as the 'Egyptian King' in football?",
+    "options": ["A) Mohamed Salah", "B) Ahmed Hegazi", "C) Mahmoud Hassan Trezeguet", "D) Ramadan Sobhi"],
+    "answer": "A",
+    "difficulty": "easy",
+    "explanation": "Mohamed Salah is nicknamed the 'Egyptian King' due to his prolific goal-scoring and leadership for Liverpool and the Egyptian national team."
+  },
+  {
+    "question": "Which club did Cristiano Ronaldo join in 2021?",
+    "options": ["A) Juventus", "B) Manchester United", "C) Real Madrid", "D) Paris Saint-Germain"],
+    "answer": "B",
+    "difficulty": "easy",
+    "explanation": "Cristiano Ronaldo rejoined Manchester United in August 2021, returning to the club after his initial stint from 2003 to 2009."
+  },
+  {
+    "question": "Who scored the winning goal in the 2014 FIFA World Cup final?",
+    "options": ["A) Lionel Messi", "B) Mario Götze", "C) Thomas Müller", "D) Miroslav Klose"],
+    "answer": "B",
+    "difficulty": "easy",
+    "explanation": "Mario Götze scored the winning goal for Germany in the 113th minute of extra time against Argentina in the 2014 FIFA World Cup final."
+  },
+  {
+    "question": "Which country won the first-ever FIFA World Cup in 1930?",
+    "options": ["A) Brazil", "B) Argentina", "C) Uruguay", "D) Italy"],
+    "answer": "C",
+    "difficulty": "easy",
+    "explanation": "Uruguay won the inaugural FIFA World Cup in 1930, defeating Argentina 4-2 in the final held in Montevideo."
+  },
+  {
+    "question": "Who is the all-time top scorer for the Brazilian national team?",
+    "options": ["A) Pelé", "B) Ronaldo Nazário", "C) Neymar Jr.", "D) Romário"],
+    "answer": "A",
+    "difficulty": "easy",
+    "explanation": "Pelé is Brazil’s all-time top scorer with 77 goals in 92 appearances for the national team."
+  },
+  {
+    "question": "Which club did Zlatan Ibrahimović join in 2016?",
+    "options": ["A) Manchester United", "B) Paris Saint-Germain", "C) Barcelona", "D) AC Milan"],
+    "answer": "A",
+    "difficulty": "medium",
+    "explanation": "Zlatan Ibrahimović joined Manchester United in 2016, signing as a free agent after leaving Paris Saint-Germain."
+  },
+  {
+    "question": "Who won the UEFA Champions League in 2012?",
+    "options": ["A) Bayern Munich", "B) Chelsea", "C) Barcelona", "D) Real Madrid"],
+    "answer": "B",
+    "difficulty": "medium",
+    "explanation": "Chelsea won the 2012 UEFA Champions League, defeating Bayern Munich 4-3 on penalties after a 1-1 draw in the final."
+  },
+  {
+    "question": "Which country has won the most Copa América titles?",
+    "options": ["A) Brazil", "B) Argentina", "C) Uruguay", "D) Chile"],
+    "answer": "C",
+    "difficulty": "medium",
+    "explanation": "Uruguay has won the most Copa América titles with 15, last winning in 2011."
+  },
+  {
+    "question": "Who is the all-time top scorer in the UEFA Champions League?",
+    "options": ["A) Lionel Messi", "B) Cristiano Ronaldo", "C) Raúl González", "D) Robert Lewandowski"],
+    "answer": "B",
+    "difficulty": "medium",
+    "explanation": "Cristiano Ronaldo is the all-time top scorer in the UEFA Champions League with 145 goals as of June 2025."
+  },
+  {
+    "question": "Which club won the first-ever English Football League title in 1889?",
+    "options": ["A) Manchester United", "B) Liverpool", "C) Arsenal", "D) Preston North End"],
+    "answer": "D",
+    "difficulty": "medium",
+    "explanation": "Preston North End won the first-ever English Football League title in the 1888-1889 season, going unbeaten in the campaign."
+  },
+  {
+    "question": "Who is the only player to have won the Ballon d'Or three times in a row?",
+    "options": ["A) Lionel Messi", "B) Cristiano Ronaldo", "C) Michel Platini", "D) Johan Cruyff"],
+    "answer": "C",
+    "difficulty": "medium",
+    "explanation": "Michel Platini won the Ballon d’Or three years in a row from 1983 to 1985 while playing for Juventus."
+  },
+  {
+    "question": "Which country won the 2006 FIFA World Cup?",
+    "options": ["A) Italy", "B) France", "C) Germany", "D) Spain"],
+    "answer": "A",
+    "difficulty": "medium",
+    "explanation": "Italy won the 2006 FIFA World Cup, defeating France 5-3 on penalties after a 1-1 draw in the final."
+  },
+  {
+    "question": "Which player holds the record for most goals in a single World Cup tournament?",
+    "options": ["A) Miroslav Klose", "B) Just Fontaine", "C) Ronaldo Nazário", "D) Gerd Müller"],
+    "answer": "B",
+    "difficulty": "medium",
+    "explanation": "Just Fontaine holds the record for most goals in a single World Cup, scoring 13 goals for France in 1958."
+  },
+  {
+    "question": "Who is known as 'The Special One' in football management?",
+    "options": ["A) Pep Guardiola", "B) José Mourinho", "C) Arsène Wenger", "D) Jürgen Klopp"],
+    "answer": "B",
+    "difficulty": "medium",
+    "explanation": "José Mourinho earned the nickname 'The Special One' after describing himself as such upon joining Chelsea in 2004."
+  },
+  {
+    "question": "Which team won the first Premier League season in 1992-1993?",
+    "options": ["A) Manchester United", "B) Arsenal", "C) Leeds United", "D) Blackburn Rovers"],
+    "answer": "A",
+    "difficulty": "medium",
+    "explanation": "Manchester United won the inaugural Premier League season in 1992-1993, managed by Sir Alex Ferguson."
+  },
+  {
+    "question": "Which nation won the FIFA World Cup in 1998?",
+    "options": ["A) Brazil", "B) France", "C) Italy", "D) Germany"],
+    "answer": "B",
+    "difficulty": "medium",
+    "explanation": "France won the 1998 FIFA World Cup, defeating Brazil 3-0 in the final on home soil."
+  },
+  {
+    "question": "Which player has the most international caps (appearances)?",
+    "options": ["A) Cristiano Ronaldo", "B) Ahmed Hassan", "C) Bader Al-Mutawa", "D) Soh Chin Ann"],
+    "answer": "C",
+    "difficulty": "medium",
+    "explanation": "Bader Al-Mutawa holds the record for the most international caps with 205 appearances for Kuwait as of June 2025."
+  },
+  {
+    "question": "Who was the top scorer in the UEFA Euro 2016?",
+    "options": ["A) Antoine Griezmann", "B) Cristiano Ronaldo", "C) Harry Kane", "D) Gareth Bale"],
+    "answer": "A",
+    "difficulty": "medium",
+    "explanation": "Antoine Griezmann was the top scorer at UEFA Euro 2016, scoring 6 goals for France."
+  },
+  {
+    "question": "Which club has the nickname 'The Red Devils'?",
+    "options": ["A) Liverpool", "B) Manchester United", "C) Bayern Munich", "D) AC Milan"],
+    "answer": "B",
+    "difficulty": "medium",
+    "explanation": "Manchester United is nicknamed 'The Red Devils,' a name popularized in the 1960s under Sir Matt Busby."
+  },
+  {
+    "question": "Who scored the 'Hand of God' goal?",
+    "options": ["A) Diego Maradona", "B) Pelé", "C) Johan Cruyff", "D) Zinedine Zidane"],
+    "answer": "A",
+    "difficulty": "medium",
+    "explanation": "Diego Maradona scored the 'Hand of God' goal using his hand in the 1986 World Cup quarter-final against England."
+  },
+  {
+    "question": "Which country won the UEFA European Championship in 2004?",
+    "options": ["A) Greece", "B) Portugal", "C) Spain", "D) Germany"],
+    "answer": "A",
+    "difficulty": "medium",
+    "explanation": "Greece won the UEFA European Championship in 2004, defeating Portugal 1-0 in the final in an upset victory."
+  },
+  {
+    "question": "Who scored the fastest hat-trick in Premier League history?",
+    "options": ["A) Sadio Mané", "B) Mohamed Salah", "C) Thierry Henry", "D) Sergio Agüero"],
+    "answer": "A",
+    "difficulty": "hard",
+    "explanation": "Sadio Mané scored the fastest Premier League hat-trick in 2 minutes and 56 seconds for Southampton against Aston Villa in 2015."
+  },
+  {
+    "question": "Which club did Johan Cruyff manage to their first European Cup win?",
+    "options": ["A) Ajax", "B) Barcelona", "C) Feyenoord", "D) PSV Eindhoven"],
+    "answer": "B",
+    "difficulty": "hard",
+    "explanation": "Johan Cruyff managed Barcelona to their first European Cup win in 1992, defeating Sampdoria 1-0."
+  },
+  {
+    "question": "Who scored the fastest goal in FIFA World Cup history?",
+    "options": ["A) Hakan Şükür", "B) Pelé", "C) Cristiano Ronaldo", "D) David Villa"],
+    "answer": "A",
+    "difficulty": "hard",
+    "explanation": "Hakan Şükür scored the fastest goal in World Cup history, 11 seconds into Turkey’s match against South Korea in 2002."
+  },
+  {
+    "question": "Which goalkeeper won the Ballon d'Or?",
+    "options": ["A) Lev Yashin", "B) Gianluigi Buffon", "C) Iker Casillas", "D) Manuel Neuer"],
+    "answer": "A",
+    "difficulty": "hard",
+    "explanation": "Lev Yashin, the Soviet goalkeeper, won the Ballon d’Or in 1963, the only goalkeeper to receive the award."
+  },
+  {
+    "question": "Who won the FIFA Ballon d'Or in 2007?",
+    "options": ["A) Kaká", "B) Lionel Messi", "C) Cristiano Ronaldo", "D) Ronaldinho"],
+    "answer": "A",
+    "difficulty": "hard",
+    "explanation": "Kaká won the FIFA Ballon d’Or in 2007 for his pivotal role in AC Milan’s Champions League triumph."
+  },
+  {
+    "question": "Which country won the FIFA Women's World Cup in 2019?",
+    "options": ["A) USA", "B) Netherlands", "C) Germany", "D) Japan"],
+    "answer": "A",
+    "difficulty": "hard",
+    "explanation": "The USA won the 2019 FIFA Women’s World Cup, defeating the Netherlands 2-0 in the final."
+  },
+  {
+    "question": "Which club did Cristiano Ronaldo join after Manchester United in 2009?",
+    "options": ["A) Juventus", "B) Real Madrid", "C) PSG", "D) Sporting Lisbon"],
+    "answer": "B",
+    "difficulty": "hard",
+    "explanation": "Cristiano Ronaldo joined Real Madrid in 2009 from Manchester United for a then-world-record transfer fee of £80 million."
+  },
+  {
+    "question": "Who was the captain of Spain during their 2010 World Cup win?",
+    "options": ["A) Xavi", "B) Iker Casillas", "C) Sergio Ramos", "D) Andrés Iniesta"],
+    "answer": "B",
+    "difficulty": "hard",
+    "explanation": "Iker Casillas was the captain of Spain during their 2010 World Cup victory, lifting the trophy after a 1-0 win over the Netherlands."
+  },
+  {
+    "question": "Which club won the treble (league, cup, and Champions League) in 1999?",
+    "options": ["A) Bayern Munich", "B) Manchester United", "C) Barcelona", "D) Inter Milan"],
+    "answer": "B",
+    "difficulty": "hard",
+    "explanation": "Manchester United won the treble in 1999, securing the Premier League, FA Cup, and UEFA Champions League under Sir Alex Ferguson."
+  },
+  {
+    "question": "Who scored the winning penalty for Chelsea in the 2012 Champions League final?",
+    "options": ["A) Didier Drogba", "B) Frank Lampard", "C) John Terry", "D) Petr Čech"],
+    "answer": "A",
+    "difficulty": "hard",
+    "explanation": "Didier Drogba scored the decisive penalty in the shootout for Chelsea against Bayern Munich in the 2012 Champions League final."
+  },
+  {
+    "question": "Which player holds the record for the most Premier League appearances?",
+    "options": ["A) Ryan Giggs", "B) Gareth Barry", "C) Frank Lampard", "D) Paul Scholes"],
+    "answer": "B",
+    "difficulty": "medium",
+    "explanation": "Gareth Barry holds the record with 653 appearances in the Premier League, primarily for Everton and Aston Villa."
+  },
+  {
+    "question": "Which country has won the most FIFA World Cups?",
+    "options": ["A) Brazil", "B) Germany", "C) Italy", "D) Argentina"],
+    "answer": "A",
+    "difficulty": "easy",
+    "explanation": "Brazil has won the FIFA World Cup five times (1958, 1962, 1970, 1994, 2002), more than any other nation."
+  },
+  {
+    "question": "Which club won the Premier League title in the 2015-2016 season with odds of 5000-1?",
+    "options": ["A) Leicester City", "B) Chelsea", "C) Manchester City", "D) Arsenal"],
+    "answer": "A",
+    "difficulty": "medium",
+    "explanation": "Leicester City achieved one of the greatest upsets in football history by winning the Premier League in the 2015-2016 season."
+  },
+  {
+    "question": "Which player has won the most FIFA Ballon d’Or awards?",
+    "options": ["A) Lionel Messi", "B) Cristiano Ronaldo", "C) Michel Platini", "D) Johan Cruyff"],
+    "answer": "A",
+    "difficulty": "easy",
+    "explanation": "Lionel Messi has won the FIFA Ballon d’Or a record eight times, most recently in 2023."
+  },
+  {
+    "question": "Which nation won the Euro 2020 tournament?",
+    "options": ["A) Italy", "B) England", "C) France", "D) Spain"],
+    "answer": "A",
+    "difficulty": "medium",
+    "explanation": "Italy won the UEFA Euro 2020, defeating England 3-2 on penalties in the final."
+  },
+  {
+    "question": "What is the maximum number of substitutions allowed in a standard FIFA match?",
+    "options": ["A) Three", "B) Four", "C) Five", "D) Six"],
+    "answer": "C",
+    "difficulty": "medium",
+    "explanation": "FIFA allows up to five substitutions in a standard match, a rule change made permanent in 2022."
+  },
+  {
+    "question": "What is the name of the award given to the top scorer in a World Cup tournament?",
+    "options": ["A) Golden Ball", "B) Golden Boot", "C) Golden Glove", "D) Player of the Tournament"],
+    "answer": "B",
+    "difficulty": "easy",
+    "explanation": "The Golden Boot is awarded to the player who scores the most goals in a FIFA World Cup tournament."
+  },
+  {
+    "question": "In what year was the first European Championship held?",
+    "options": ["A) 1956", "B) 1960", "C) 1964", "D) 1968"],
+    "answer": "B",
+    "difficulty": "medium",
+    "explanation": "The first UEFA European Championship was held in 1960, with the Soviet Union defeating Yugoslavia in the final."
+  },
+  {
+    "question": "Who is the only player to win three European Golden Shoes?",
+    "options": ["A) Lionel Messi", "B) Cristiano Ronaldo", "C) Diego Maradona", "D) Thierry Henry"],
+    "answer": "A",
+    "difficulty": "hard",
+    "explanation": "Lionel Messi is the only player to have won the European Golden Shoe three times, awarded for being the top scorer in European leagues."
+  },
+  {
+    "question": "Which country is known as the 'Azzurri'?",
+    "options": ["A) Spain", "B) Italy", "C) France", "D) Portugal"],
+    "answer": "B",
+    "difficulty": "easy",
+    "explanation": "Italy’s national football team is nicknamed the 'Azzurri,' meaning 'the Blues,' due to their blue kits."
+  },
+  {
+    "question": "Who is the youngest player to ever play in a FIFA World Cup?",
+    "options": ["A) Pelé", "B) Norman Whiteside", "C) Michael Owen", "D) Lionel Messi"],
+    "answer": "B",
+    "difficulty": "hard",
+    "explanation": "Norman Whiteside was 17 years and 41 days old when he played for Northern Ireland in the 1982 World Cup."
+  },
+  {
+    "question": "What is the name of the stadium where FC Barcelona plays?",
+    "options": ["A) Santiago Bernabéu", "B) Camp Nou", "C) Wanda Metropolitano", "D) San Siro"],
+    "answer": "B",
+    "difficulty": "easy",
+    "explanation": "Camp Nou is the home stadium of FC Barcelona, one of the largest football stadiums in the world."
+  },
+  {
+    "question": "Who holds the record for the most international goals in soccer history?",
+    "options": ["A) Pelé", "B) Cristiano Ronaldo", "C) Lionel Messi", "D) Ferenc Puskás"],
+    "answer": "B",
+    "difficulty": "medium",
+    "explanation": "Cristiano Ronaldo holds the record for the most international goals, with over 130 goals for Portugal as of June 2025."
+  },
+  {
+    "question": "Who scored the first goal in Premier League history?",
+    "options": ["A) Brian Deane", "B) Alan Shearer", "C) Eric Cantona", "D) Teddy Sheringham"],
+    "answer": "A",
+    "difficulty": "hard",
+    "explanation": "Brian Deane scored the first-ever Premier League goal for Sheffield United against Manchester United in 1992."
+  },
+  {
+    "question": "What is the highest number of points achieved by a team in a single Premier League season?",
+    "options": ["A) 95", "B) 97", "C) 100", "D) 102"],
+    "answer": "C",
+    "difficulty": "medium",
+    "explanation": "Manchester City set a record with 100 points in the 2017-2018 Premier League season."
+  },
+  {
+    "question": "Who was the first manager to win the Premier League with two different clubs?",
+    "options": ["A) José Mourinho", "B) Alex Ferguson", "C) Arsène Wenger", "D) Carlo Ancelotti"],
+    "answer": "A",
+    "difficulty": "hard",
+    "explanation": "José Mourinho was the first manager to win the Premier League with Chelsea (2004-2005, 2005-2006) and Manchester United (2016-2017)."
+  },
+  {
+    "question": "What was the highest-scoring match in Premier League history?",
+    "options": ["A) Manchester United vs. Southampton 9-0", "B) Portsmouth vs. Reading 7-4", "C) Arsenal vs. Newcastle 7-3", "D) Tottenham vs. Manchester City 6-4"],
+    "answer": "B",
+    "difficulty": "hard",
+    "explanation": "The highest-scoring Premier League match was Portsmouth’s 7-4 victory over Reading in 2007, with 11 total goals."
+  },
+  {
+    "question": "Who was the first non-European manager to win the Premier League?",
+    "options": ["A) Manuel Pellegrini", "B) José Mourinho", "C) Claudio Ranieri", "D) Jürgen Klopp"],
+    "answer": "A",
+    "difficulty": "hard",
+    "explanation": "Manuel Pellegrini, from Chile, was the first non-European manager to win the Premier League with Manchester City in 2013-2014."
+  },
+  {
+    "question": "Which club holds the record for the longest unbeaten run in Premier League history?",
+    "options": ["A) Manchester United", "B) Arsenal", "C) Chelsea", "D) Liverpool"],
+    "answer": "B",
+    "difficulty": "medium",
+    "explanation": "Arsenal holds the record for the longest unbeaten run in the Premier League with 49 games from 2003 to 2004."
+  },
+  {
+    "question": "Which team was the first to be relegated from the Premier League?",
+    "options": ["A) Crystal Palace", "B) Norwich City", "C) Oldham Athletic", "D) Nottingham Forest"],
+    "answer": "C",
+    "difficulty": "hard",
+    "explanation": "Oldham Athletic was one of the first teams relegated from the Premier League in the 1992-1993 season."
+  },
+  {
+    "question": "Which player won the Golden Ball at the 2018 FIFA World Cup?",
+    "options": ["A) Kylian Mbappé", "B) Luka Modrić", "C) Eden Hazard", "D) Antoine Griezmann"],
+    "answer": "B",
+    "difficulty": "medium",
+    "explanation": "Luka Modrić won the Golden Ball as the best player at the 2018 FIFA World Cup for his performances with Croatia."
+  },
+  {
+    "question": "Which club is nicknamed 'The Gunners'?",
+    "options": ["A) Manchester City", "B) Arsenal", "C) Tottenham Hotspur", "D) Chelsea"],
+    "answer": "B",
+    "difficulty": "easy",
+    "explanation": "Arsenal is nicknamed 'The Gunners' due to the club’s historical association with the Royal Arsenal in Woolwich."
+  },
+  {
+    "question": "Who scored the winning goal in the 2002 FIFA World Cup final?",
+    "options": ["A) Ronaldo Nazário", "B) Rivaldo", "C) Ronaldinho", "D) Cafu"],
+    "answer": "A",
+    "difficulty": "medium",
+    "explanation": "Ronaldo Nazário scored both goals, including the winning goal, in Brazil’s 2-0 victory over Germany in the 2002 World Cup final."
+  },
+  {
+    "question": "Which country hosted the first FIFA Women’s World Cup in 1991?",
+    "options": ["A) USA", "B) China", "C) Sweden", "D) Germany"],
+    "answer": "B",
+    "difficulty": "hard",
+    "explanation": "China hosted the inaugural FIFA Women’s World Cup in 1991, with the USA winning the tournament."
+  },
+  {
+    "question": "Which manager has won the most UEFA Champions League titles?",
+    "options": ["A) Pep Guardiola", "B) Carlo Ancelotti", "C) Zinedine Zidane", "D) Alex Ferguson"],
+    "answer": "B",
+    "difficulty": "medium",
+    "explanation": "Carlo Ancelotti has won the UEFA Champions League four times as a manager, with AC Milan (2003, 2007) and Real Madrid (2014, 2022)."
+  },
+  {
+    "question": "Which player scored a record 5 goals in a single Premier League match?",
+    "options": ["A) Dimitar Berbatov", "B) Wayne Rooney", "C) Harry Kane", "D) Mohamed Salah"],
+    "answer": "A",
+    "difficulty": "hard",
+    "explanation": "Dimitar Berbatov scored 5 goals for Manchester United in a 7-1 win over Blackburn Rovers in 2010."
+  },
+  {
+    "question": "Which country won the FIFA World Cup in 1966?",
+    "options": ["A) England", "B) Brazil", "C) Germany", "D) Italy"],
+    "answer": "A",
+    "difficulty": "medium",
+    "explanation": "England won the 1966 FIFA World Cup, defeating West Germany 4-2 in the final on home soil."
+  },
+  {
+    "question": "Which club won the first-ever UEFA Cup in 1972?",
+    "options": ["A) Tottenham Hotspur", "B) Ajax", "C) Liverpool", "D) Bayern Munich"],
+    "answer": "A",
+    "difficulty": "hard",
+    "explanation": "Tottenham Hotspur won the inaugural UEFA Cup in 1972, defeating Wolverhampton Wanderers in an all-English final."
+  },
+  {
+    "question": "Who is the all-time top scorer for the Argentina national team?",
+    "options": ["A) Diego Maradona", "B) Gabriel Batistuta", "C) Lionel Messi", "D) Juan Román Riquelme"],
+    "answer": "C",
+    "difficulty": "medium",
+    "explanation": "Lionel Messi is Argentina’s all-time top scorer with over 100 goals for the national team as of June 2025."
+  },
+  {
+    "question": "Which stadium hosted the 2010 FIFA World Cup final?",
+    "options": ["A) Maracanã", "B) Soccer City", "C) Estadio Azteca", "D) Wembley"],
+    "answer": "B",
+    "difficulty": "medium",
+    "explanation": "Soccer City in Johannesburg, South Africa, hosted the 2010 FIFA World Cup final, where Spain defeated the Netherlands."
+  },
+  {
+    "question": "Which player won the Golden Boot at the 2010 FIFA World Cup?",
+    "options": ["A) Diego Forlán", "B) Thomas Müller", "C) David Villa", "D) Wesley Sneijder"],
+    "answer": "B",
+    "difficulty": "hard",
+    "explanation": "Thomas Müller won the Golden Boot at the 2010 FIFA World Cup, scoring 5 goals and providing 3 assists for Germany."
+  },
+  {
+    "question": "Which club has won the most consecutive English Premier League titles?",
+    "options": ["A) Manchester United", "B) Manchester City", "C) Chelsea", "D) Arsenal"],
+    "answer": "B",
+    "difficulty": "medium",
+    "explanation": "Manchester City won four consecutive Premier League titles from 2020-2021 to 2023-2024."
+  },
+  {
+    "question": "Who was the first player to score in every round of a single World Cup?",
+    "options": ["A) Jairzinho", "B) Pelé", "C) Gerd Müller", "D) Ronaldo Nazário"],
+    "answer": "A",
+    "difficulty": "hard",
+    "explanation": "Jairzinho scored in every round of the 1970 World Cup for Brazil, a unique achievement."
+  },
+  {
+    "question": "Which country won the first-ever Copa América in 1916?",
+    "options": ["A) Brazil", "B) Argentina", "C) Uruguay", "D) Chile"],
+    "answer": "C",
+    "difficulty": "hard",
+    "explanation": "Uruguay won the first Copa América in 1916, defeating Argentina in the final."
+  },
+  {
+    "question": "Which player has the most assists in Premier League history?",
+    "options": ["A) Ryan Giggs", "B) Cesc Fàbregas", "C) Kevin De Bruyne", "D) Frank Lampard"],
+    "answer": "A",
+    "difficulty": "medium",
+    "explanation": "Ryan Giggs holds the record for the most assists in the Premier League with 162, primarily for Manchester United."
+  },
+  {
+    "question": "Which team won the UEFA Champions League in 2020?",
+    "options": ["A) Bayern Munich", "B) Paris Saint-Germain", "C) Liverpool", "D) Real Madrid"],
+    "answer": "A",
+    "difficulty": "medium",
+    "explanation": "Bayern Munich won the 2020 UEFA Champions League, defeating Paris Saint-Germain 1-0 in the final."
+  },
+  {
+    "question": "Who was the top scorer in the 2006 FIFA World Cup?",
+    "options": ["A) Miroslav Klose", "B) Ronaldo Nazário", "C) Zinedine Zidane", "D) Lukas Podolski"],
+    "answer": "A",
+    "difficulty": "medium",
+    "explanation": "Miroslav Klose was the top scorer at the 2006 FIFA World Cup, scoring 5 goals for Germany."
+  },
+  {
+    "question": "Which club is known as 'The Toffees'?",
+    "options": ["A) Everton", "B) West Ham United", "C) Newcastle United", "D) Southampton"],
+    "answer": "A",
+    "difficulty": "easy",
+    "explanation": "Everton is nicknamed 'The Toffees' due to a historical association with a local toffee shop in Liverpool."
+  },
+  {
+    "question": "Which player was sent off in the 2006 FIFA World Cup final?",
+    "options": ["A) Zinedine Zidane", "B) Marco Materazzi", "C) Gianluigi Buffon", "D) Fabio Cannavaro"],
+    "answer": "A",
+    "difficulty": "medium",
+    "explanation": "Zinedine Zidane was sent off in the 2006 World Cup final for headbutting Marco Materazzi."
+  },
+  {
+    "question": "Which country won the FIFA Women’s World Cup in 2015?",
+    "options": ["A) USA", "B) Japan", "C) Germany", "D) England"],
+    "answer": "A",
+    "difficulty": "medium",
+    "explanation": "The USA won the 2015 FIFA Women’s World Cup, defeating Japan 5-2 in the final."
+  },
+  {
+    "question": "Who holds the record for the most clean sheets in Premier League history?",
+    "options": ["A) Petr Čech", "B) David James", "C) Edwin van der Sar", "D) David de Gea"],
+    "answer": "A",
+    "difficulty": "medium",
+    "explanation": "Petr Čech holds the record for the most clean sheets in the Premier League with 202, primarily for Chelsea."
+  },
+  {
+    "question": "Which club won the UEFA Europa League in 2019?",
+    "options": ["A) Chelsea", "B) Arsenal", "C) Manchester United", "D) Sevilla"],
+    "answer": "A",
+    "difficulty": "medium",
+    "explanation": "Chelsea won the 2019 UEFA Europa League, defeating Arsenal 4-1 in the final."
+  },
+  {
+    "question": "Who scored the winning goal in the 2016 UEFA Euro final?",
+    "options": ["A) Cristiano Ronaldo", "B) Éder", "C) Antoine Griezmann", "D) Dimitri Payet"],
+    "answer": "B",
+    "difficulty": "hard",
+    "explanation": "Éder scored the winning goal for Portugal in extra time against France in the 2016 UEFA Euro final."
+  },
+  {
+    "question": "Which player won the PFA Player of the Year award in the 2014-2015 Premier League season?",
+    "options": ["A) Eden Hazard", "B) Harry Kane", "C) Alexis Sánchez", "D) Diego Costa"],
+    "answer": "A",
+    "difficulty": "medium",
+    "explanation": "Eden Hazard won the PFA Player of the Year award in 2014-2015 for his key role in Chelsea’s Premier League title."
+  },
+  {
+    "question": "Which country hosted the 2002 FIFA World Cup?",
+    "options": ["A) Brazil", "B) Japan/South Korea", "C) Germany", "D) France"],
+    "answer": "B",
+    "difficulty": "medium",
+    "explanation": "Japan and South Korea co-hosted the 2002 FIFA World Cup, the first to be held in Asia."
+  },
+  {
+    "question": "Who was the first African player to win the Ballon d’Or?",
+    "options": ["A) George Weah", "B) Samuel Eto’o", "C) Didier Drogba", "D) Yaya Touré"],
+    "answer": "A",
+    "difficulty": "hard",
+    "explanation": "George Weah won the Ballon d’Or in 1995, the first and only African player to receive the award."
+  },
+  {
+    "question": "Which club won the first-ever FA Cup in 1872?",
+    "options": ["A) Wanderers FC", "B) Aston Villa", "C) Blackburn Rovers", "D) Arsenal"],
+    "answer": "A",
+    "difficulty": "hard",
+    "explanation": "Wanderers FC won the inaugural FA Cup in 1872, defeating Royal Engineers 1-0."
+  },
+  {
+    "question": "Which player scored the fastest goal in Premier League history?",
+    "options": ["A) Shane Long", "B) Ledley King", "C) Alan Shearer", "D) Dwight Yorke"],
+    "answer": "A",
+    "difficulty": "hard",
+    "explanation": "Shane Long scored the fastest Premier League goal in 7.69 seconds for Southampton against Watford in 2019."
+  },
+  {
+    "question": "Which country won the 2021 Copa América?",
+    "options": ["A) Brazil", "B) Argentina", "C) Colombia", "D) Chile"],
+    "answer": "B",
+    "difficulty": "medium",
+    "explanation": "Argentina won the 2021 Copa América, defeating Brazil 1-0 in the final, with Lionel Messi earning his first major international trophy."
+  },
+  {
+    "question": "Which club has the nickname 'The Blues'?",
+    "options": ["A) Chelsea", "B) Manchester City", "C) Everton", "D) Leicester City"],
+    "answer": "A",
+    "difficulty": "easy",
+    "explanation": "Chelsea is nicknamed 'The Blues' due to their traditional blue kits."
+  },
+  {
+    "question": "Who was the top scorer in the 2022 FIFA World Cup?",
+    "options": ["A) Lionel Messi", "B) Kylian Mbappé", "C) Harry Kane", "D) Neymar Jr."],
+    "answer": "B",
+    "difficulty": "medium",
+    "explanation": "Kylian Mbappé won the Golden Boot at the 2022 FIFA World Cup, scoring 8 goals for France."
+  },
+  {
+    "question": "Which team won the UEFA Champions League in 2008?",
+    "options": ["A) Manchester United", "B) Chelsea", "C) Barcelona", "D) Liverpool"],
+    "answer": "A",
+    "difficulty": "medium",
+    "explanation": "Manchester United won the 2008 UEFA Champions League, defeating Chelsea 6-5 on penalties after a 1-1 draw."
+  },
+  {
+    "question": "Which player has the most red cards in Premier League history?",
+    "options": ["A) Duncan Ferguson", "B) Patrick Vieira", "C) Richard Dunne", "D) Vinnie Jones"],
+    "answer": "C",
+    "difficulty": "hard",
+    "explanation": "Richard Dunne holds the record for the most Premier League red cards with 8, during his career with clubs like Manchester City."
+  },
+  {
+    "question": "Which country won the first UEFA Nations League in 2019?",
+    "options": ["A) Portugal", "B) Netherlands", "C) France", "D) Spain"],
+    "answer": "A",
+    "difficulty": "medium",
+    "explanation": "Portugal won the inaugural UEFA Nations League in 2019, defeating the Netherlands 1-0 in the final."
+  },
+  {
+    "question": "Who was the first player to score 100 Premier League goals?",
+    "options": ["A) Alan Shearer", "B) Ian Wright", "C) Andy Cole", "D) Matt Le Tissier"],
+    "answer": "B",
+    "difficulty": "hard",
+    "explanation": "Ian Wright was the first player to reach 100 Premier League goals, achieving the milestone with Arsenal in 1997."
+  },
+  {
+    "question": "Which stadium is known as 'The Theatre of Dreams'?",
+    "options": ["A) Anfield", "B) Old Trafford", "C) Stamford Bridge", "D) Emirates Stadium"],
+    "answer": "B",
+    "difficulty": "easy",
+    "explanation": "Old Trafford, the home of Manchester United, is nicknamed 'The Theatre of Dreams' by Sir Bobby Charlton."
+  },
+  {
+    "question": "Which player won the Golden Ball at the 2014 FIFA World Cup?",
+    "options": ["A) Lionel Messi", "B) James Rodríguez", "C) Thomas Müller", "D) Neymar Jr."],
+    "answer": "A",
+    "difficulty": "medium",
+    "explanation": "Lionel Messi won the Golden Ball as the best player at the 2014 FIFA World Cup for his performances with Argentina."
+  },
+  {
+    "question": "Which club won the 2022-2023 Premier League title?",
+    "options": ["A) Manchester City", "B) Arsenal", "C) Liverpool", "D) Manchester United"],
+    "answer": "A",
+    "difficulty": "medium",
+    "explanation": "Manchester City won the 2022-2023 Premier League title, finishing with 89 points under Pep Guardiola."
+  },
+  {
+    "question": "Who was the first woman to win the Ballon d’Or Féminin?",
+    "options": ["A) Ada Hegerberg", "B) Megan Rapinoe", "C) Alexia Putellas", "D) Marta"],
+    "answer": "A",
+    "difficulty": "hard",
+    "explanation": "Ada Hegerberg won the inaugural Ballon d’Or Féminin in 2018 for her performances with Lyon."
+  },
+  {
+    "question": "Which country won the 1990 FIFA World Cup?",
+    "options": ["A) Brazil", "B) West Germany", "C) Argentina", "D) Italy"],
+    "answer": "B",
+    "difficulty": "medium",
+    "explanation": "West Germany won the 1990 FIFA World Cup, defeating Argentina 1-0 in the final."
+  },
+  {
+    "question": "Which player holds the record for the most goals in a single Premier League season?",
+    "options": ["A) Erling Haaland", "B) Mohamed Salah", "C) Alan Shearer", "D) Thierry Henry"],
+    "answer": "A",
+    "difficulty": "medium",
+    "explanation": "Erling Haaland set the record with 36 goals in the 2022-2023 Premier League season for Manchester City."
+  },
+  {
+    "question": "Which year did FC Barcelona win their first UEFA Champions League title?",
+    "options": ["A) 1992", "B) 2006", "C) 2009", "D) 2011"],
+    "answer": "A",
+    "difficulty": "medium",
+    "explanation": "FC Barcelona won their first UEFA Champions League title in 1992, defeating Sampdoria at Wembley Stadium."
+  },
+  {
+    "question": "Who was the FC Barcelona manager during their 2008-09 treble-winning season?",
+    "options": ["A) Frank Rijkaard", "B) Pep Guardiola", "C) Luis Enrique", "D) Ernesto Valverde"],
+    "answer": "B",
+    "difficulty": "medium",
+    "explanation": "Pep Guardiola managed FC Barcelona during their historic 2008-09 treble-winning season."
+  },
+  {
+    "question": "In which year did Lamine Yamal make his first-team debut for FC Barcelona?",
+    "options": ["A) 2021", "B) 2022", "C) 2023", "D) 2024"],
+    "answer": "C",
+    "difficulty": "medium",
+    "explanation": "Lamine Yamal made his first-team debut for FC Barcelona in 2023, becoming one of the youngest debutants in club history."
+  },
+  {
+    "question": "Which record did Lamine Yamal break in La Liga during the 2023-24 season?",
+    "options": ["A) Youngest goalscorer", "B) Most assists", "C) Most appearances", "D) Most hat-tricks"],
+    "answer": "A",
+    "difficulty": "hard",
+    "explanation": "Lamine Yamal became the youngest goalscorer in La Liga history during the 2023-24 season."
+  },
+  {
+    "question": "How many Ballon d'Or awards has Lionel Messi won as of 2024?",
+    "options": ["A) 5", "B) 6", "C) 7", "D) 8"],
+    "answer": "D",
+    "difficulty": "medium",
+    "explanation": "Lionel Messi has won 8 Ballon d'Or awards as of 2024, the most in football history."
+  },
+  {
+    "question": "Which club did Lionel Messi join after leaving FC Barcelona in 2021?",
+    "options": ["A) PSG", "B) Inter Miami", "C) Manchester City", "D) Al Hilal"],
+    "answer": "A",
+    "difficulty": "easy",
+    "explanation": "Lionel Messi joined Paris Saint-Germain (PSG) after leaving FC Barcelona in 2021."
+  }
+  
+]
